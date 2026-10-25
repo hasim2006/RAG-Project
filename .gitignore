@@ -1,0 +1,34 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.tmp
+
+# Environment variables & secrets
+.env
+.env.*
+!.env.example
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+
+# Data logs and runtime state
+*.log
+feedback_store.json
+feedback_store.json.tmp
+dataset_for_finetuning.jsonl
+cache_store.json
+semantic_cache.json
+
+# Archives & Temporary files
+*.zip
+*.tgz
+*.tar.gz
+0.26.0
