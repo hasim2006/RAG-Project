@@ -1,0 +1,15 @@
+[Doc 201] Enterprise Remote Work and Hybrid Operations Policy
+Title: Hybrid Work Guidelines and Remote Eligibility
+Effective Date: January 1, 2026
+Scope: All Global Full-Time Employees
+
+SECTION 1: ELIGIBILITY & APPROVAL WORKFLOW
+All full-time employees who have completed at least 90 calendar days of continuous service are eligible to request hybrid or full remote work arrangements. Requests must be submitted through the HR Portal and approved by the VP of Department Operations.
+
+SECTION 2: STIPENDS & HOME OFFICE SETUP
+1. Home Internet Stipend: A recurring stipend of $85 per month is paid automatically on the first pay period of each month to cover broadband internet costs.
+2. Office Furniture Credit: Remote team members receive a one-time reimbursement of up to $600 for ergonomic desk equipment (chairs, standing desks, monitor arms).
+3. Core Hours Requirement: All remote staff must remain available on Slack and Zoom during core business hours (10:00 AM to 4:00 PM EST).
+
+SECTION 3: INTERNATIONAL REMOTE WORK (WORKATION)
+Employees may work remotely outside their primary residence state/country for up to 30 calendar days per fiscal year, subject to prior tax compliance review by the legal department at least 14 days prior to departure.
